@@ -35,21 +35,21 @@ python -m venv venv
 venv\Scripts\activate
 # لتفعيلها على Mac/Linux:
 source venv/bin/activate
-```bash
+```
 
 3. تثبيت المكتبات اللازمة
 استخدم ملف requirements.txt لتثبيت الأدوات المطلوبة بضغطة واحدة:
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 4. تشغيل التطبيق
 قم بتشغيل الملف الرئيسي (على سبيل المثال main.py):
 
 ```bash
 python main.py
-```bash
+```
 
 بعد التشغيل، سيفتح التطبيق تلقائياً في متصفحك على الرابط: http://localhost:8080
 
